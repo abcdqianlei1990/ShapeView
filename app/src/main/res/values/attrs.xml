@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShapeTextView">
+        <attr name="shape_solid" format="color"/>
+        <attr name="shape_radius" format="dimension"/>
+        <attr name="shape_topLeftRadius" format="dimension"/>
+        <attr name="shape_topRightRadius" format="dimension"/>
+        <attr name="shape_bottomLeftRadius" format="dimension"/>
+        <attr name="shape_bottomRightRadius" format="dimension"/>
+        <attr name="shape_strokeWidth" format="dimension"/>
+        <attr name="shape_strokeColor" format="color"/>
+    </declare-styleable>
+</resources>
