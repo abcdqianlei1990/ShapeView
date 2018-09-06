@@ -1,7 +1,7 @@
 # ShapeView
 省去繁杂shape文件维护
 ## Attrs
-|属性名称|属性左右|
+|属性名称|属性作用|
 |:----|:------|
 |shape_solid|背景色|
 |shape_radius|四角弧度|
@@ -11,6 +11,7 @@
 |shape_bottomLeftRadius|左下角弧度|
 |shape_strokeWidth|描边宽度|
 |shape_strokeColor|描边颜色|
+NOTE:四角弧度值shape_radius优先级低于shape_topLeftRadius|shape_topRightRadius|shape_bottomRightRadius|shape_bottomLeftRadius
 
 ## How to do
 ### step 1.Add it in your root build.gradle at the end of repositories:
