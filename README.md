@@ -1,7 +1,7 @@
 # ShapeView
 省去繁杂shape文件维护
 ## Attrs
-|name|type|note|
+|属性名称|属性左右|
 |:----|:------|
 |shape_solid|背景色|
 |shape_radius|四角弧度|
