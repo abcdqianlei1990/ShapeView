@@ -29,6 +29,6 @@
 ```groovy
 	dependencies {
           ...
-	        compile 'com.github.abcdqianlei1990:TimerButton:1.1'
+	        implementation 'com.github.abcdqianlei1990:ShapeView:1.0'
 	}
 ```
