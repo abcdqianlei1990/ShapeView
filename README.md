@@ -1,3 +1,4 @@
+[![GitHub release](https://img.shields.io/github/release/abcdqianlei1990/ShapeView.svg)](https://github.com/abcdqianlei1990/CommonUtils/releases)
 # ShapeView
 省去繁杂shape文件维护
 ## Attrs
