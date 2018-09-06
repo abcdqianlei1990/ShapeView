@@ -11,7 +11,8 @@
 |shape_bottomLeftRadius|左下角弧度|
 |shape_strokeWidth|描边宽度|
 |shape_strokeColor|描边颜色|
-NOTE:四角弧度值shape_radius优先级低于shape_topLeftRadius|shape_topRightRadius|shape_bottomRightRadius|shape_bottomLeftRadius
+
+### NOTE:四角弧度值shape_radius优先级低于shape_topLeftRadius|shape_topRightRadius|shape_bottomRightRadius|shape_bottomLeftRadius
 
 ## How to do
 ### step 1.Add it in your root build.gradle at the end of repositories:
